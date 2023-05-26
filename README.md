@@ -4,6 +4,12 @@ A GUI for Selenium framework. This is an open source project.
 
 https://youtu.be/Xvz3Df_UUic
 
+# Donwload the runnable file and play:
+https://1drv.ms/f/s!AjIl1c2Zu2FyiacPKGcMEoxfnxq2ow?e=3muiA1
+
+If it does not work please let me know and you can see the error if you open a Command Prompt in the folder where you stored the file and run the following command:
+java -agentlib:jdwp=transport=dt_socket,address=8080,server=y,suspend=n -jar SeleniumInterface.jar
+
 Copyright (c) 2023 Daniel Andrei
 
 MIT License
