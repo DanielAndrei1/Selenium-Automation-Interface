@@ -7,42 +7,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Mig Swing Layout/miglayout-core-5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Mig Swing Layout/miglayout-swing-5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-api-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-api-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-chrome-driver-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-chrome-driver-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-chromium-driver-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-chromium-driver-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v85-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v85-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v110-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v110-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v111-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v111-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v112-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v112-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-edge-driver-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-edge-driver-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-firefox-driver-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-firefox-driver-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-http-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-http-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-ie-driver-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-ie-driver-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-java-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-java-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-json-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-json-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-manager-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-manager-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-remote-driver-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-remote-driver-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-safari-driver-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-safari-driver-4.9.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-support-4.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-support-4.9.0-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/lib/async-http-client-2.12.3.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/lib/async-http-client-netty-utils-2.12.3.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/lib/auto-common-1.2.1.jar"/>
@@ -91,5 +55,42 @@
 	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/lib/opentelemetry-semconv-1.25.0-alpha.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/lib/reactive-streams-1.0.4.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/lib/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-api-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-api-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-chrome-driver-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-chrome-driver-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-chromium-driver-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-chromium-driver-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v85-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v85-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v110-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v110-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v111-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v111-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v112-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-devtools-v112-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-edge-driver-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-edge-driver-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-firefox-driver-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-firefox-driver-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-http-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-http-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-ie-driver-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-ie-driver-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-java-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-java-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-json-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-json-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-manager-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-manager-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-remote-driver-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-remote-driver-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-safari-driver-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-safari-driver-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-support-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Selenium Java/selenium-support-4.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Mig Swing Layout/miglayout-core-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java Libraries/Mig Swing Layout/miglayout-swing-5.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
