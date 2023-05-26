@@ -1,0 +1,56 @@
+=====
+Time: 2023-05-24 23:28:50
+Windows
+113
+https://infinitystudiogames.com
+Partial Link Text
+Click
+MAP
+
+false
+true
+true
+=====
+Windows
+109
+https://github
+Name
+Scroll
+aa
+
+true
+true
+true
+=====
+Windows
+113
+https://google.com
+Default
+Click
+
+
+false
+true
+true
+=====
+Windows
+113
+https://google.com
+Name
+Input text
+Q
+Daniel Andrei
+true
+true
+true
+=====
+Windows
+113
+https://google.com
+Name
+Input text
+q
+Daniel Andrei
+true
+true
+true
