@@ -1,5 +1,5 @@
 # Selenium-Automation-Interface
-A GUI for Selenium framework. This is an open source project.
+A GUI for Selenium framework.
 
 
 https://youtu.be/Xvz3Df_UUic
