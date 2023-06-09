@@ -1,4 +1,4 @@
-# Selenium-Automation-Interface
+# Selenium-Automation-Interface <a href="https://wakatime.com/badge/github/DanielAndrei1/BookingSystem"><img src="https://wakatime.com/badge/github/DanielAndrei1/BookingSystem.svg" alt="wakatime"></a>
 A GUI for Selenium framework. This is an open source project.
 
 
